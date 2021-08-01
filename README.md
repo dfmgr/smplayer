@@ -5,7 +5,7 @@ SMPlayer is a free media player for Windows and Linux with built-in codecs that 
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/smplayer/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/smplayer/raw/main/install.sh)"
 ```
 
 Manual install:
